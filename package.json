@@ -1,0 +1,11 @@
+{
+  "name": "avegna-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Monochrome editorial developer & designer portfolio for Yadoji Sri Avegna",
+  "type": "module",
+  "scripts": {
+    "dev": "python -m http.server 8080",
+    "start": "python -m http.server 8080"
+  }
+}
